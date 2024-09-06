@@ -1,0 +1,36 @@
+C:\Users\днс\Desktop\nakes_none_banks\Lab4\Banks\bin\Debug\net6.0\Banks.deps.json
+C:\Users\днс\Desktop\nakes_none_banks\Lab4\Banks\bin\Debug\net6.0\Banks.dll
+C:\Users\днс\Desktop\nakes_none_banks\Lab4\Banks\bin\Debug\net6.0\Banks.pdb
+C:\Users\днс\Desktop\nakes_none_banks\Lab4\Banks\obj\Debug\net6.0\Banks.csproj.AssemblyReference.cache
+C:\Users\днс\Desktop\nakes_none_banks\Lab4\Banks\obj\Debug\net6.0\Banks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\днс\Desktop\nakes_none_banks\Lab4\Banks\obj\Debug\net6.0\Banks.AssemblyInfoInputs.cache
+C:\Users\днс\Desktop\nakes_none_banks\Lab4\Banks\obj\Debug\net6.0\Banks.AssemblyInfo.cs
+C:\Users\днс\Desktop\nakes_none_banks\Lab4\Banks\obj\Debug\net6.0\Banks.csproj.CoreCompileInputs.cache
+C:\Users\днс\Desktop\nakes_none_banks\Lab4\Banks\obj\Debug\net6.0\Banks.dll
+C:\Users\днс\Desktop\nakes_none_banks\Lab4\Banks\obj\Debug\net6.0\refint\Banks.dll
+C:\Users\днс\Desktop\nakes_none_banks\Lab4\Banks\obj\Debug\net6.0\Banks.pdb
+C:\Users\днс\Desktop\nakes_none_banks\Lab4\Banks\obj\Debug\net6.0\ref\Banks.dll
+C:\Users\admin\Desktop\banks\Lab4\Banks\bin\Debug\net6.0\Banks.deps.json
+C:\Users\admin\Desktop\banks\Lab4\Banks\bin\Debug\net6.0\Banks.dll
+C:\Users\admin\Desktop\banks\Lab4\Banks\bin\Debug\net6.0\Banks.pdb
+C:\Users\admin\Desktop\banks\Lab4\Banks\obj\Debug\net6.0\Banks.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\banks\Lab4\Banks\obj\Debug\net6.0\Banks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\banks\Lab4\Banks\obj\Debug\net6.0\Banks.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\banks\Lab4\Banks\obj\Debug\net6.0\Banks.AssemblyInfo.cs
+C:\Users\admin\Desktop\banks\Lab4\Banks\obj\Debug\net6.0\Banks.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\banks\Lab4\Banks\obj\Debug\net6.0\Banks.dll
+C:\Users\admin\Desktop\banks\Lab4\Banks\obj\Debug\net6.0\refint\Banks.dll
+C:\Users\admin\Desktop\banks\Lab4\Banks\obj\Debug\net6.0\Banks.pdb
+C:\Users\admin\Desktop\banks\Lab4\Banks\obj\Debug\net6.0\ref\Banks.dll
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab4\Banks\bin\Debug\net6.0\Banks.deps.json
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab4\Banks\bin\Debug\net6.0\Banks.dll
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab4\Banks\bin\Debug\net6.0\Banks.pdb
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab4\Banks\obj\Debug\net6.0\Banks.csproj.AssemblyReference.cache
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab4\Banks\obj\Debug\net6.0\Banks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab4\Banks\obj\Debug\net6.0\Banks.AssemblyInfoInputs.cache
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab4\Banks\obj\Debug\net6.0\Banks.AssemblyInfo.cs
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab4\Banks\obj\Debug\net6.0\Banks.csproj.CoreCompileInputs.cache
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab4\Banks\obj\Debug\net6.0\Banks.dll
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab4\Banks\obj\Debug\net6.0\refint\Banks.dll
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab4\Banks\obj\Debug\net6.0\Banks.pdb
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab4\Banks\obj\Debug\net6.0\ref\Banks.dll

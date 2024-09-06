@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x8T0UjbY5nave0IaFpZvGIvQWgViOb1fh46Lvkc0i1QioungeyDvSP5ZnDn0+U1zvx2WZzooIuuIBYdJaEUf5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Snake\\OneDrive - ITMO UNIVERSITY\\Рабочий стол\\12345\\Lab4\\Banks\\Banks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Snake\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
